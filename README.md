@@ -37,8 +37,9 @@ A complete BART-based text simplification system covering data cleaning, EDA, fi
 - Train unified multi-dataset simplification model
 
 ## Installation
-git clone https://github.com/yourusername/your-repo](https://github.com/Niloofark/Capstone-Project/tree/main
-cd your-repo
+git clone https://github.com/Niloofark/Capstone-Project.git
+cd Capstone-Project
+
 
 python3 -m venv env
 source env/bin/activate    # Mac/Linux
