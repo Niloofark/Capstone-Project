@@ -4,13 +4,13 @@ A complete BART-based text simplification system covering data cleaning, EDA, fi
 
 
 ## Notebooks
-- Phase 1
-  - Data Cleaning and EDA
-  - Training and Evaluation
-- Phase 2
-  - Data Cleaning and EDA
-  - Fine-Tuning
-  - Joint Training
+
+- Capstone Phase1_Data Cleaning and EDA.ipynb
+- Capstone Phase1_Training and Evaluation.ipynb
+- Capstone_phase2_Data Cleaning and EDA.ipynb
+- Capstone_phase2_Model FineTunning.ipynb
+- Capstone_phase2_joint.ipynb
+
 
 
 ## Overview
