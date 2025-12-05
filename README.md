@@ -1,19 +1,17 @@
 📘 Multi-Level Text Simplification with BART
 
-
-
-
-
-
 An end-to-end NLP pipeline for text simplification and summarization using BART, applied across two phases: OneStopEnglish (OSE) in Phase 1 and M3 in Phase 2.
 Includes full data cleaning, EDA, fine-tuning, and joint multi-dataset training.
 
-📁 Notebooks
-Capstone Phase1_Data Cleaning and EDA.ipynb
-Capstone Phase1_Training and Evaluation.ipynb
-Capstone_phase2_Data Cleaning and EDA.ipynb
-Capstone_phase2_Model FineTunning.ipynb
-Capstone_phase2_joint.ipynb
+## Notebooks
+- Phase 1
+  - Data Cleaning and EDA
+  - Training and Evaluation
+- Phase 2
+  - Data Cleaning and EDA
+  - Fine-Tuning
+  - Joint Training
+
 
 📌 Overview
 Phase 1 — OneStopEnglish
